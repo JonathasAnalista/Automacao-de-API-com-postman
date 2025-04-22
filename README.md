@@ -7,4 +7,5 @@
 ## 1. Baixe o arquivo do projeto .json 
 ## 2. Abra o Postman e importe o arquivo baixado
 ## 3. Selecione na parte superior da direita onde fica o environment e selecione serverest Dev 
-## 4. Agora clique em RUN e execute o projeto
+## 4. Agora clique em Run e deixe selecionado os campos [cadastro de usuários | login | cadastro de produtos | buscar produtos únicos | deletar produtos] 
+## 5. Agora clique em Run Again e a automação será executada
